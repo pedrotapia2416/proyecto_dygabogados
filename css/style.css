@@ -7995,7 +7995,7 @@ a.text-dark:hover, a.text-dark:focus {
     border-color: #dee2e6; } }
 
 body {
-  font-family: "Poppins", Arial, sans-serif;
+  font-family: 'EB Garamond', serif;
   background: #fff;
   font-size: 16px;
   line-height: 1.8;
@@ -8027,7 +8027,7 @@ h1, h2, h3, h4, h5,
   color: #301065  !important; }
 
 .ftco-navbar-light {
-  background: transparent !important;
+  background: black !important;
   position: absolute;
   top: 20px;
   left: 0;
@@ -8129,7 +8129,7 @@ h1, h2, h3, h4, h5,
     left: 0;
     top: 0;
     margin-top: -130px;
-    background: #fff !important;
+    background: black !important;
     -webkit-box-shadow: 0 0 10px 0 rgba(0, 0, 0, 0.1);
     box-shadow: 0 0 10px 0 rgba(0, 0, 0, 0.1); }
     @media (max-width: 991.98px) {
@@ -8193,7 +8193,7 @@ h1, h2, h3, h4, h5,
 .navbar-brand {
   font-weight: 700;
   font-size: 20px;
-  font-family: "Poppins", Arial, sans-serif;
+  font-family: 'EB Garamond', serif;
   line-height: 1;
   text-transform: uppercase; }
   .navbar-brand span {
@@ -8231,7 +8231,7 @@ h1, h2, h3, h4, h5,
   color: #fff;
   line-height: 1.2;
   font-weight: 700;
-  font-family: "Poppins", Arial, sans-serif; }
+  font-family: 'EB Garamond', serif; }
   @media (max-width: 991.98px) {
     .slider-text h1 {
       font-size: 40px; } }
@@ -8239,7 +8239,7 @@ h1, h2, h3, h4, h5,
 .slider-text .subheading {
   font-size: 16px;
   color: rgba(255, 255, 255, 0.9);
-  font-family: "Poppins", Arial, sans-serif;
+  font-family: 'EB Garamond', serif;
   font-weight: 600; }
 
 .slider-text p {
@@ -9563,7 +9563,7 @@ textarea.form-control {
       display: block;
       color: rgba(255, 255, 255, 0.9);
       font-size: 13px;
-      font-family: "Poppins", Arial, sans-serif;
+      font-family: 'EB Garamond', serif;
       font-weight: normal; }
   @media (max-width: 991.98px) {
     .block-2 .back {
